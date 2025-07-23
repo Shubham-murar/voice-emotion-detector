@@ -1,8 +1,4 @@
-Absolutely! Here's a polished `README.md` tailored for your **Voice Emotion Detector** project using **XGBoost + MFCCs + audio features**. 🔥
 
----
-
-### 📄 `README.md`
 
 ```markdown
 # 🎙️ Voice Emotion Detector
