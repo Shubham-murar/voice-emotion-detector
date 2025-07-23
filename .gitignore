@@ -1,0 +1,18 @@
+# Virtual environment
+venv/
+
+# Audio files
+*.wav
+audio_samples/
+
+# Model & data files
+*.pkl
+models/
+
+# Cache and junk
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# IDE/editor settings
+.vscode/
